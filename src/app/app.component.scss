@@ -11,6 +11,8 @@ mat-card-content {
 img {
   margin: auto;
   object-fit: contain;
+  max-height: 100%;
+  max-width: 100%;
 }
 
 .outer-container {
@@ -28,5 +30,10 @@ img {
 }
 
 .answer-item {
-  flex-basis: 48%;
+  flex-basis: 45%;
+}
+
+.image-container {
+  display: flex;
+  max-width: 100%;
 }

@@ -1,6 +1,8 @@
 <mat-card class="outer-container">
   <mat-card-content>
-    <img src="{{ currentQuestion.sign.url }}">
+    <div class="image-container">
+      <img src="{{ currentQuestion.sign.url }}">
+    </div>
     <div class="answer-container">
         <button mat-raised-button color="primary" class="answer-item" *ngFor="let answer of currentQuestion.allAnswers" (click)="handleClick(answer, currentQuestion.correctAnswer)">{{ answer }}</button>
     </div>
