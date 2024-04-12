@@ -92,6 +92,10 @@
     "url": "/assets/verkehrszeichen/images/vorschriftzeichen/vorschriftszeichen-222-20-vorgeschriebene-vorbeifahrt-rechts-vorbei.webp"
   },
   {
+    "title": "Haltestelle",
+    "url": "/assets/verkehrszeichen/images/vorschriftzeichen/verkehrszeichen-224-haltestelle-einseitig-gemaess-stvo.jpg"
+  },
+  {
     "title": "Radweg",
     "url": "/assets/verkehrszeichen/images/vorschriftzeichen/vorschriftszeichen-237-radweg.webp"
   },
@@ -128,6 +132,14 @@
     "url": "/assets/verkehrszeichen/images/vorschriftzeichen/vorschriftszeichen-250-verbot-fur-fahrzeuge-aller-art.webp"
   },
   {
+    "title": "Verbot für Radverkehr",
+    "url": "/assets/verkehrszeichen/images/vorschriftzeichen/254-Verbot-für-Radverkehr.png"
+  },
+  {
+    "title": "Verbot für Fußgänger",
+    "url": "/assets/verkehrszeichen/images/vorschriftzeichen/IEQ-vorschriftzeichen-vz-259-verbot-fuer-fussgaenger-retroreflektierend-600-mm-3-510x510.jpg"
+  },
+  {
     "title": "Verbot der Einfahrt / Einfahrt verboten",
     "url": "/assets/verkehrszeichen/images/vorschriftzeichen/vorschriftszeichen-267-verbot-der-einfahrt-einfahrt-verboten.webp"
   },
@@ -156,6 +168,10 @@
     "url": "/assets/verkehrszeichen/images/richtzeichen/richtzeichen-306-vorfahrtstrae.webp"
   },
   {
+    "title": "abknickende Vorfahrtsstraße",
+    "url": "/assets/verkehrszeichen/images/richtzeichen/1442141.png"
+  },
+  {
     "title": "Ende der Vorfahrtsstraße",
     "url": "/assets/verkehrszeichen/images/richtzeichen/richtzeichen-307-ende-der-vorfahrtstrae.webp"
   },
@@ -164,12 +180,20 @@
     "url": "/assets/verkehrszeichen/images/richtzeichen/richtzeichen-308-vorrang-vor-dem-gegenverkehr.webp"
   },
   {
+    "title": "Ortstafel",
+    "url": "/assets/verkehrszeichen/images/richtzeichen/123189-022_verkehrszeichen-richtzeichen-vz310-ortstafel-vorderseite.webpp"
+  },
+  {
     "title": "Beginn eines verkehrsberuhigtem Bereichs",
     "url": "/assets/verkehrszeichen/images/richtzeichen/richtzeichen-3251-beginn-eines-verkehrsberuhigten-bereichs.webp"
   },
   {
     "title": "Ende eines verkehrsberuhigtem Bereichs",
     "url": "/assets/verkehrszeichen/images/richtzeichen/richtzeichen-3252-ende-eines-verkehrsberuhigten-bereichs.webp"
+  },
+  {
+    "title": "Kraftfahrtstraße",
+    "url": "/assets/verkehrszeichen/images/richtzeichen/verkehrszeichen-331-1-kraftfahrstrasse-gemaess-stvo-jpg.jpg"
   },
   {
     "title": "Fußgängerüberweg",
@@ -186,5 +210,9 @@
   {
     "title": "Erste Hilfe",
     "url": "/assets/verkehrszeichen/images/richtzeichen/richtzeichen-358-erste-hilfe.webp"
+  },
+  {
+    "title": "Vorwegweiser für bestimmte Verkehrsteilnehmer",
+    "url": "/assets/verkehrszeichen/images/richtzeichen/verkehrszeichen-442-10-vorwegweiser-fuer-kfz-gemaess-stvo-400x401.jpg"
   }
 ]
