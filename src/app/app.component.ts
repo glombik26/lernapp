@@ -44,18 +44,12 @@ export class AppComponent {
   }
 
   handleClick(answer: string, correctAnswer: string) {
-    if (answer === correctAnswer) {
-      this.openCorrectAnswerDialog();
-    } else {
+    if (answer !== correctAnswer) {
       this.openWrongAnswerDialog();
     }
     setTimeout(() => {
       this.initNewQuestion();
     }, 100);
-  }
-
-  private openCorrectAnswerDialog() {
-    this.dialog.open(CorrectAnswerDialogComponent);
   }
 
   private openWrongAnswerDialog() {
