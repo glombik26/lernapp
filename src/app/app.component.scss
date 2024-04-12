@@ -31,7 +31,8 @@ img {
 
 .answer-item {
   flex-basis: 45%;
-  min-height: 64px;
+  min-height: 80px;
+  word-wrap: anywhere;
 }
 
 .image-container {
