@@ -60,6 +60,13 @@ export class AppComponent {
 
   private initNewQuestion() {
     this.currentSign = data[Math.floor(Math.random() * this.data.length)];
+    if (!this.lastSign) {
+      this.lastSign = this.currentSign;
+    } else {
+      while (this.lastSign.title == this.currentSign.title) {
+        this.currentSign = data[Math.floor(Math.random() * this.data.length)];
+      }
+    }
     const wrongAnswers = this.generateWrongAnswers(this.data.map(value => value.title), this.currentSign.title);
     this.currentQuestion = {
       sign: this.currentSign,
