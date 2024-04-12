@@ -1,0 +1,32 @@
+:host {
+  margin: 16px 16px 0;
+  display: flex;
+}
+
+mat-card-content {
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  margin: auto;
+  object-fit: contain;
+}
+
+.outer-container {
+  max-width: 800px;
+  width: 100%;
+  margin: auto;
+}
+
+.answer-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: space-between;
+}
+
+.answer-item {
+  flex-basis: 48%;
+}
